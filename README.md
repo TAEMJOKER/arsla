@@ -26,11 +26,12 @@ chmod +x install.sh
 
 ֆ • • • • • • • • • • • • • ֆ
 
-• او نصب بكود واحد 
+• او نصب بكود واحد TAEMJOKER
 
-git clone https://github.com/moodlIMyIl/TshAkEapi && cd TshAkEapi && chmod +x install.sh && ./install.sh
+git clone https://github.com/TAEMJOKER/arsla && cd arsla && chmod + x install.sh && ./install.sh
 
 • وراح يطلب منك اثناء التنصيب تحط y او n دائما اختار y •
+• وراح يطلب منك أثناء التنصيب تحط y او n always're y •
 
 ֆ • • • • • • • • • • • • • ֆ
 
